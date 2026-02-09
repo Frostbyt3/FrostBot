@@ -1,0 +1,7 @@
+[irc]
+server = "127.0.0.1"
+port = 6667
+nick = "FrostBot"
+realname = "FrostBot"
+password = "password"
+channels = ["#relykstv"]
